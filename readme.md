@@ -5,3 +5,5 @@ Tasks:
 2. [x] Task 2 - Print animal image (Unit 1)
 3. [x] Task 3 - User Input (Unit 3)
 4. [x] Task 4 - Updated Menu (in progress)
+
+- Added documentation and corrected misinput errors
